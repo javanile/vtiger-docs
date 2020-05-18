@@ -1,8 +1,9 @@
 #!/usr/bin/env bash
 set -e
 
+  #7.2.0
+
 versions=(
-  7.2.0
   7.1.0
 )
 
